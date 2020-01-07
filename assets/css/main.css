@@ -2585,12 +2585,25 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.left.trixpicafirst {
+			float: left;
+			margin: 0 1.5em 1em 0;
+			top: 0.25em;
+			width: 15%;
+		}
+
+		.image.right.trixpicasecond {
+			float: right;
+			margin: 0 0 1em 1.5em;
+			top: 0.25em;
+			width: 15%;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 1.5em 1em 0;
 			top: 0.25em;
 		}
-
 		.image.right {
 			float: right;
 			margin: 0 0 1em 1.5em;
@@ -3918,6 +3931,4 @@ input, select, textarea {
 			}
 
 		}
-
-/* Some much needed CUSTOM CSS */
 
