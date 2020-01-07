@@ -3914,3 +3914,14 @@ input, select, textarea {
 			}
 
 		}
+
+/* Some much needed CUSTOM CSS */
+	button {
+		background-color: #EBF5FF;
+		color: #5e42a6;
+		border: 2px solid black;
+}
+	button:hover, button:focus, button:active {
+		color: #EBF5FF;
+		background-color: #4312AE;
+	}
